@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+lost_found.db
+*.sqlite
+*.sqlite3
+.venv/
+venv/
